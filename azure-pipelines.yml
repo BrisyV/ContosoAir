@@ -1,5 +1,5 @@
    pool:
-    name: PoolSelf01
+    name: 'Azure Pipelines'
    trigger:
      - master
    steps:
